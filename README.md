@@ -22,9 +22,12 @@
 [<img align="left" alt="bnguyen | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611460323~hmac=a15f233189bb33872c0d36b766e3d34e" />][linkedin]
 
 ---
+
+
 <details>
   <summary>👨‍💻 Languages/Tools/Technologies</summary>
   <p>
+
    - Java
    - Python - Tkinter
    - C
@@ -32,21 +35,10 @@
    - HTML - BootStrap
    - CSS
    - JavaScript - Socket.IO
+
   </p>
 </details>
 
-<details><summary>⚡ Languages/Tech</summary>
-<p>
-
- - C++ - Libraries: Qt5, Boost, MongoCXX, GNU MP, STL
- - Python   - Libraries: PyQt5, etc
- - Rust
- - C
- - Reversing: Ghidra, IDA Pro
- - Database: MySQL, MongoDB
- 
-</p>
-</details>
 <details>
   <summary>:zap: GitHub Statistics</summary>
   <img align="left" alt="benjamin-nguyen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benjamin-nguyen&show_icons=true&hide_border=true" />
