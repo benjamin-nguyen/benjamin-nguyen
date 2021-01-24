@@ -26,19 +26,19 @@
   <summary>👨‍💻 Languages/Tools/Technologies</summary>
   <p>
    - Java
-   - Python: Tkinter
+   - Python - Tkinter
    - C
    - Bash
-   - HTML: BootStrap
+   - HTML - BootStrap
    - CSS
-   - JavaScript: Socket.IO
+   - JavaScript - Socket.IO
   </p>
 </details>
 
 <details><summary>⚡ Languages/Tech</summary>
 <p>
 
-  - C++ - Libraries: Qt5, Boost, MongoCXX, GNU MP, STL
+ - C++ - Libraries: Qt5, Boost, MongoCXX, GNU MP, STL
  - Python   - Libraries: PyQt5, etc
  - Rust
  - C
