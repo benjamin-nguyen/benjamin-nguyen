@@ -24,13 +24,13 @@
 ---
 <details>
   <summary>👨‍💻 Languages/Tools/Technologies</summary>
-    - Java
-    - Python: Tkinter
-    - C
-    - Bash
-    - HTML: BootStrap
-    - CSS
-    - JavaScript: Socket.IO
+- Java
+- Python: Tkinter
+- C
+- Bash
+- HTML: BootStrap
+- CSS
+- JavaScript: Socket.IO
 </details>
 
 <details>
