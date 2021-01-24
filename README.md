@@ -12,11 +12,7 @@
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2021 Goals: Become an expert in a new domain, technology, and language
 - ⚡ Fun fact: I love to swim and play chess
-- 💬 Feel free to reach out to me
-
----
-
-### Languages:
+- 💬 Please feel free to reach out to me
 
 ---
 
