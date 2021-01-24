@@ -12,7 +12,7 @@
 - 💻 My go-to languages are Python and Java
 - 🌱 I’m currently learning C++ and C#
 - 👯 I'm looking to collaborate on new projects with other developers
-- 🥅 2021 Goals: Become an expert in a new domain, technology, and language
+- 🥅 2021 Goals: Become an expert in a new domain, technology, or language
 - ⚡ Fun fact: I love to swim and play chess
 - 💬 Please do not hesitate to contact me. I'm always happy to have discussions and possibly collaborate on projects!
 
@@ -23,7 +23,6 @@
 
 ---
 <details>
-  La
   <summary>👨‍💻 Languages/Tools/Technologies</summary>
     - Java
     - Python: Tkinter
@@ -35,11 +34,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Statistics</summary>
   <img align="left" alt="benjamin-nguyen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benjamin-nguyen&show_icons=true&hide_border=true" />
 </details>
-
-
 
 [website]: https://bnguyen.codes/
 [linkedin]: https://www.linkedin.com/in/benjnguyen/
