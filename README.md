@@ -26,6 +26,7 @@
 <details>
   <summary>👨‍💻 Languages/Tools/Technologies</summary>
   <p>
+    
    - Java
    - Python - Tkinter
    - C
@@ -33,6 +34,7 @@
    - HTML - BootStrap
    - CSS
    - JavaScript - Socket.IO
+   
   </p>
 </details>
 
