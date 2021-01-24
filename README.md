@@ -25,16 +25,28 @@
 <details>
   <summary>👨‍💻 Languages/Tools/Technologies</summary>
   <p>
-    - Java
-    - Python: Tkinter
-    - C
-    - Bash
-    - HTML: BootStrap
-    - CSS
-    - JavaScript: Socket.IO
+   - Java
+   - Python: Tkinter
+   - C
+   - Bash
+   - HTML: BootStrap
+   - CSS
+   - JavaScript: Socket.IO
   </p>
 </details>
 
+<details><summary>⚡ Languages/Tech</summary>
+<p>
+
+  - C++ - Libraries: Qt5, Boost, MongoCXX, GNU MP, STL
+ - Python   - Libraries: PyQt5, etc
+ - Rust
+ - C
+ - Reversing: Ghidra, IDA Pro
+ - Database: MySQL, MongoDB
+ 
+</p>
+</details>
 <details>
   <summary>:zap: GitHub Statistics</summary>
   <img align="left" alt="benjamin-nguyen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benjamin-nguyen&show_icons=true&hide_border=true" />
