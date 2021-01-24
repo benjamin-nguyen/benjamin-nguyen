@@ -40,7 +40,7 @@
 
 <details>
   <summary>:zap: GitHub Statistics</summary>
-  <img align="left" alt="benjamin-nguyen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=benjamin-nguyen&show_icons=true&hide_border=true" />
+  <img align="left" alt="benjamin-nguyen's GitHub Stat" src="https://github-readme-stats.codestackr.vercel.app/api?username=benjamin-nguyen&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://bnguyen.codes/#contact
