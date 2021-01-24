@@ -9,7 +9,7 @@
 ## I'm also a Software Developer and an avid learner! 
 - 💻 My go-to languages are Python and Java
 - 🌱 I’m currently learning C++ and C#
-- 👯 I'm looking to collaborate with other developers
+- 👯 I'm looking to collaborate on new projects with other developers
 - 🥅 2021 Goals: Become an expert in a new domain, technology, and language
 - ⚡ Fun fact: I love to swim and play chess
 - 💬 Please feel free to reach out to me
