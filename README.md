@@ -19,7 +19,7 @@
 ### Connect with me:
 
 [<img align="left" alt="bnguyen.codes" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/975/975645.svg?token=exp=1611460432~hmac=7d8386302f357fbf3eb9e9a7270a1281" />][website]
-[<img align="left" alt="bnguyen | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611460323~hmac=a15f233189bb33872c0d36b766e3d34e" />][linkedin]
+[<img align="left" alt="bnguyen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 ---
 <i class="fab fa-linkedin-in"></i>
