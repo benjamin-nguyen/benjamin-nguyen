@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Benjamin Nguyen! 👋
 
-👨‍🎓 I am a second-year Computer Science Co-op Student at Ryerson University located in Toronto, ON, CA.
+👨‍🎓 I am a second-year Computer Science Co-op Student at Ryerson University.
 
 <img alt="GIF" src="https://i.imgur.com/VGg1x00.gif" />
 
