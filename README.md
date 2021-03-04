@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bnguyen.codes" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/716/716784.svg?token=exp=1614307239~hmac=d2145853b7bdbfe5e98c140bf7eaee6b" />][website]
+[<img align="left" alt="bnguyen.codes" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991110.svg?token=exp=1614902861~hmac=b261b98ddcfe3ab3293fbb12003078fd" />][website]
 [<img align="left" alt="bnguyen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 ---
