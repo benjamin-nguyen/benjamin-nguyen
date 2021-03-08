@@ -18,10 +18,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bnguyen.codes" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991110.svg?token=exp=1614902861~hmac=b261b98ddcfe3ab3293fbb12003078fd" />][website]
+[<img align="left" alt="bnguyen.codes" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991110.svg?token=exp=1615169446~hmac=f9a19a7fb97fefc0eb03cd623be00327" />][website]
 [<img align="left" alt="bnguyen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ---
 <i class="fab fa-linkedin-in"></i>
