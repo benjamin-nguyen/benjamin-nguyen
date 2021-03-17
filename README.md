@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bnguyen.codes" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2991/2991110.svg?token=exp=1615169446~hmac=f9a19a7fb97fefc0eb03cd623be00327" />][website]
+[<img align="left" alt="bnguyen.codes" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Forms_2020_Logo.svg/1200px-Google_Forms_2020_Logo.svg.png" />][website]
 [<img align="left" alt="bnguyen | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 ---
