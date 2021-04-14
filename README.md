@@ -1,4 +1,4 @@
-# *** Seeking Summer 2021 Internships ***
+# *** Seeking Fall 2021 Internships ***
 
 ### Hi there, I'm Benjamin Nguyen! 👋
 
