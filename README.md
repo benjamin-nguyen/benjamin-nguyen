@@ -6,7 +6,7 @@
 
 <img alt="GIF" src="https://i.imgur.com/VGg1x00.gif" />
 
-[![Website](https://img.shields.io/website?label=bnguyen.codes&style=for-the-badge&url=https%3A%2F%2Fbnguyen.codes)](https://bnguyen.codes/)
+[![Website](https://img.shields.io/website?label=benjaminn.me&style=for-the-badge&url=https%3A%2F%2Fbenjaminn.me)](https://benjaminn.me/)
 
 ## I'm also a Software Developer and an avid learner!
 - 💻 My go-to languages are Python and Java
