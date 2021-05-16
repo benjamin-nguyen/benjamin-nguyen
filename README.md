@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/website?label=benjaminn.me&style=for-the-badge&url=https%3A%2F%2Fbenjaminn.me)](https://benjaminn.me/)
 
-## I'm also a Software Developer and an avid learner!
+## I'm a Software Developer and an avid learner!
 - 💻 My go-to languages are Python and Java
 - 🌱 I’m currently learning C++ and C#
 - 🤝 I'm looking to collaborate on new projects with other developers
