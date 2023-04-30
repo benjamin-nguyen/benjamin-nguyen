@@ -1,5 +1,5 @@
 # Benjamin Nguyen
-### Software Developer, 5th Year Computer Science Co-op Student
+### Software Developer | 5th Year Computer Science Co-op Student
 
 Feel free to connect with me:
 
