@@ -1,5 +1,4 @@
 # Benjamin Nguyen
-### Software Developer | Final Year Computer Science Co-op Student
 
 Feel free to connect with me:
 
